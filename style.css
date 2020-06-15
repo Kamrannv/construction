@@ -684,7 +684,7 @@ p.dropcap span.first-letter { font-size: 55px; float: left; color: #ffc925; text
 .nav-top-cart-wrapper .nav-shop-cart ul li.empty { padding: 0; }
 .nav-top-cart-wrapper .nav-shop-cart ul li:first-child { padding-top: 0; margin-top: 0; border-top: 0;  }
 .nav-top-cart-wrapper .nav-shop-cart ul li a { 
-color: #252525; font-family: "Montserrat", sans-serif; font-size: 1.071em; font-weight: 300; }
+color: #252525; font-family: "Montserrat", sans-serif; font-size: 1.071em; font-weight: 200; }
 .nav-top-cart-wrapper .nav-shop-cart ul li a:hover { color: #ffc925; }
 .nav-top-cart-wrapper .nav-shop-cart ul li .quantity { display: block; line-height: 16px; }
 .nav-top-cart-wrapper .nav-shop-cart{height: 100px;}
