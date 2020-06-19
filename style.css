@@ -1,3 +1,4 @@
+
 /**
  * Theme Name: Construction - Ultimate Construction Template
  * Version: 1.0
@@ -7,7 +8,7 @@
  * Author URI: http://www.blogwp.com
  */
 
-@import url("http://fonts.googleapis.com/css?family=Lato:400,400i|Montserrat:300,400,500,600,700&subset=latin");
+@import url("https://fonts.googleapis.com/css?family=Lato:400,400i|Montserrat:300,400,500,600,700&subset=latin");
 
 @import "assets/css/bootstrap.min.css";
 @import "assets/css/animsition.css";
@@ -759,8 +760,8 @@ color: #252525; font-family: "Montserrat", sans-serif; font-size: 1.071em; font-
 }
 
 #main-nav > ul > li.menu-item-has-children > a { position: relative; padding-right: 15px; }
-/*#main-nav > ul > li.menu-item-has-children > a:after { content: "\f107"; font-family: "FontAwesome"; position: absolute; right: 0; top: 0; }
-*/
+#main-nav > ul > li.menu-item-has-children > a:after { content: "\f107"; font-family: "FontAwesome"; position: absolute; right: 0; top: 0; }
+
 /* Re-style Navigation for header two, three, five */
 #site-header.style-2 #main-nav > ul > li > a,
 #site-header.style-3 #main-nav > ul > li > a { color: #fff; height: 60px; line-height: 60px; }

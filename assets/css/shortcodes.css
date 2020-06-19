@@ -25,6 +25,10 @@
     background: url(../img/bg-section-about.jpg) no-repeat center center;
 }
 
+.wprt-section .link{
+    margin: 26px 0 0;
+}
+
 .wprt-section.offer {
     background-color: #f7f7f7;
 }
@@ -693,6 +697,7 @@
     padding: 0.47em 1.6em;
     font-size: 0.928em;
 }
+
 
 /* Button Big */
 .wprt-button.big {
