@@ -431,14 +431,14 @@ p.dropcap span.first-letter { font-size: 55px; float: left; color: #ffc925; text
 
 /* Sidebar Right (default) */
 #site-content { float: left; width: 70% } /* 300px on 1170px grid */
-#sidebar { float: right; width: 25.7% } /* 300px on 1170px grid */
+#sidebar { float: left; width: 25.7% } /* 300px on 1170px grid */
 
 /* Sidebar Left */
 .sidebar-left #site-content { float: right; }
 .sidebar-left #sidebar { float: left; }
 
 /* No Sidebar */
-.no-sidebar #site-content { width: 100% !important; max-width: none !important; float: none !important; }
+.no-sidebar #site-content { float:right; }
 
 /* Hero Background SlideShow
 -------------------------------------------------------------- */
