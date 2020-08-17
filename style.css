@@ -438,7 +438,7 @@ p.dropcap span.first-letter { font-size: 55px; float: left; color: #ffc925; text
 .sidebar-left #sidebar { float: left; }
 
 /* No Sidebar */
-.no-sidebar #site-content { float:right; }
+.no-sidebar #site-content { width: 100% !important; max-width: none !important; float: none !important; }
 
 /* Hero Background SlideShow
 -------------------------------------------------------------- */
