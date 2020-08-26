@@ -1428,6 +1428,9 @@ body.page #main-content { padding-top: 0; padding-bottom: 0; }
 
 /* Scroll Top
 -------------------------------------------------------------- */
+.bground{
+	background-color: #f7f7f7;
+}
 #scroll-top {
 	position: fixed !important;
 	right: 25px;
@@ -1463,6 +1466,10 @@ body.page #main-content { padding-top: 0; padding-bottom: 0; }
 	bottom: 45px;
 	border: 1px solid black;
 }
+.langu{
+	display: flex; 
+	justify-content: center;
+}
 
 .langu li a {
 	color: #fff;
@@ -1475,6 +1482,7 @@ body.page #main-content { padding-top: 0; padding-bottom: 0; }
 	.langu li a{
 		text-align:center;
 		margin-left: 20px;
+		color: #777;
 	}
 	.wprt-section{
 		margin-top:30px;
