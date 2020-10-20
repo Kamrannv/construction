@@ -127,7 +127,7 @@
                     inDuration: 1500,
                     outDuration: 800,
                     loading: true,
-                    loadingParentElement: 'body',
+                    loadingParentElement: '',
                     loadingClass: 'animsition-loading',
                     timeout: false,
                     timeoutCountdown: 5000,
@@ -950,3 +950,7 @@
     wprtTheme.init();
 
 })(jQuery);
+
+setTimeout(function(){
+    $('#preloader').fadeToggle();
+}, 500)
